@@ -8,7 +8,7 @@ I'm a Computer Science student at the University of Naples Federico II with a de
   - **Daily Experience**: C++, Java (Spring Boot, JavaFX), Typescript (Angular)
   - **Familiar With**: C, Bash, Python, Kotlin (Jetpack Compose), PL/pgSQL, Prolog
 - **Areas**: Algorithms & Data Structures, Scientific Computing, Object-Oriented Programming
-- **Tools**: CMake, APIs, Docker, Docker Compose
+- **Tools**: CMake, APIs (REST), Docker, Docker Compose
 - **Database Systems**: PostgreSQL (PL/pgSQL), MariaDB
 
 #### 🚀 Featured Projects
