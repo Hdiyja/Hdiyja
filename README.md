@@ -6,15 +6,15 @@ I'm a Computer Science student at the University of Naples Federico II with a de
 #### 🛠️ Technical Skills
 - **Languages**: 
   - **Daily Experience**: C++, Java (Spring Boot, JavaFX), Typescript (Angular)
-  - **Familiar With**: C, Bash, Python, Kotlin (Jetpack Compose), PL/pgSQL, Prolog
+  - **Familiar With**: C, Bash, Python, Kotlin, Prolog
 - **Areas**: Algorithms & Data Structures, Scientific Computing, Object-Oriented Programming
-- **Tools**: CMake, APIs (REST), Docker, Docker Compose
+- **Tools**: Docker, Docker Compose, CMake, Valgrind
 - **Database Systems**: PostgreSQL (PL/pgSQL), MariaDB
 
 #### 🚀 Featured Projects
 - **[AlgorithmPractice](https://github.com/CsaProtocol/AlgorithmPractice)**: Modern C++20 implementations of fundamental data structures and algorithms
-- **[TortoiseHospital](https://github.com/CsaProtocol/TortoiseHospital)**: JavaFX application designed to manage the care and recovery of sea turtles at National Recovery Centers
 - **[MyVideoteca](https://github.com/CsaProtocol/MyVideoteca)**: Multi-language video management application using Kotlin and native components
+- **[TortoiseHospital](https://github.com/CsaProtocol/TortoiseHospital)**: JavaFX application designed to manage the care and recovery of sea turtles at National Recovery Centers
 - **[AstroMusic](https://github.com/CsaProtocol/AstroMusic)**: Award-winning scientific application for the "a scuola di astroparticelle" project
 
 #### 🏆 Publications & Recognition
@@ -35,7 +35,7 @@ My work on **AstroMusic** has been acknowledged in the scientific paper:
 
 #### Certifications 📜
 
-- [Certificate of Completion Software Engineering Virtual Experience Program] @ Forage & Goldman Sachs (February 18, 2023)
+- Certificate of Completion Software Engineering Virtual Experience Program @ Forage & Goldman Sachs (February 18, 2023)
 - [Python: Istruzioni per l'uso](https://www.coursera.org/account/accomplishments/certificate/2VLFJRXASC7J) @ Naples University Federico II (2020)
 - [First Certificate in English]() @ Cambridge Assessment English (2018)
 - [Introduction to Internet of Everything]() @ Cisco Networking Academy (2018)
