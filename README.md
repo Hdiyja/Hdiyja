@@ -28,6 +28,7 @@ My work on **AstroMusic** has been acknowledged in the scientific paper:
 #### Work experience 🧑🏻‍💻
 | Job Position | Company | Field | Work Period | Project Name |
 | ---------------------------- | ------------------ | ---------------------------- | -------------------------- | -------------------------- |
+|  Software Developer | JEFNapoli | IT consulting | 2025-Present | 
 |  Alternanza scuola-lavoro | CREF | Astropartycle Physics | 2017-2018 (~200hrs) |  [Extreme Energy Events](https://eee.centrofermi.it/en/) |
 
 #### Education 🎓
