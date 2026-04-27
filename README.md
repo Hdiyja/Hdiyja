@@ -6,7 +6,7 @@ I'm a Computer Science student at the University of Naples Federico II with a de
 #### 🛠️ Technical Skills
 - **Languages**: 
   - **Daily Experience**: C++, Java (Spring Boot, JavaFX), Typescript (Angular)
-  - **Familiar With**: C, Bash, Python, Kotlin, Prolog
+  - **Familiar With**: C, Bash, Python, Prolog
 - **Areas**: Algorithms & Data Structures, Scientific Computing, Object-Oriented Programming
 - **Tools**: Docker, Docker Compose, CMake, Valgrind
 - **Database Systems**: PostgreSQL (PL/pgSQL), MariaDB
