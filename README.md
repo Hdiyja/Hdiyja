@@ -1,6 +1,4 @@
-### 👋 Hi, I'm Eduardo (Hdiyja)
-
-### 💻 Software Engineer & Algorithm Enthusiast
+### 👋 Hi, I'm Eduardo (Hdiyja) | Software Engineer
 
 > Software Engineer and CS student at Federico II. Passionate about algorithms, modern C++, and building efficient, end-to-end containerized applications.
 
