@@ -2,7 +2,7 @@
 
 #### 💻 Software Engineer & Algorithm Enthusiast
 
-> Computer Science student at Federico II blending deep algorithmic thinking with full-stack execution. I build fast, robust systems—whether that means optimizing C++ data structures or shipping containerized web applications.
+> Software Engineer and CS student at Federico II. Passionate about algorithms, modern C++, and building efficient, end-to-end containerized applications.
 
 ---
 
