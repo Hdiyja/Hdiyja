@@ -5,13 +5,14 @@ I'm a Computer Science student at the University of Naples Federico II with a de
 
 #### 🛠️ Technical Skills
 - **Languages**: 
-  - **Daily Experience**: C++, Java (Spring Boot, JavaFX), Typescript (Angular)
+  - **Daily Experience**: C++, Java (Spring Boot, JavaFX), Typescript (React)
   - **Familiar With**: C, Bash, Python, Prolog
 - **Areas**: Algorithms & Data Structures, Scientific Computing, Object-Oriented Programming
-- **Tools**: Docker, Docker Compose, CMake, Valgrind
+- **Tools**: Docker, Docker Compose, CMake, Valgrind, awk, sed
 - **Database Systems**: PostgreSQL (PL/pgSQL), MariaDB
 
 #### 🚀 Featured Projects
+- **[DietiEstates25](https://github.com/CsaProtocol/DietiEstates25)**: Full-stack real estate and visit booking platform built with Spring Boot, React, and PostgreSQL
 - **[AlgorithmPractice](https://github.com/CsaProtocol/AlgorithmPractice)**: Modern C++20 implementations of fundamental data structures and algorithms
 - **[MyVideoteca](https://github.com/CsaProtocol/MyVideoteca)**: Multi-language video management application using Kotlin and native components
 - **[TortoiseHospital](https://github.com/CsaProtocol/TortoiseHospital)**: JavaFX application designed to manage the care and recovery of sea turtles at National Recovery Centers
@@ -50,18 +51,3 @@ My work on **AstroMusic** has been acknowledged in the scientific paper:
 ---
 
 *Feel free to explore my repositories and reach out for collaborations!*
-
-<!--
-**Hdiyja/Hdiyja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
