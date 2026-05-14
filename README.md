@@ -37,8 +37,8 @@
 
 #### 📜 Certifications & Courses
 
-- **[Software Engineering Job Simulation](https://www.theforage.com/completion-certificates/fgHAi6dLhpRsGKyyN/da2T3WZCbMAJD7bNB_fgHAi6dLhpRsGKyyN_NyDJnETQhYHsBuW5t_1767997476098_completion_certificate.pdf)** | Hewlett Packard Enterprise (Forage)
-- **[AI Fluency Framework & Foundations](https://verify.skilljar.com/c/bpobqx3p3szs)** | Certificate of Completion
+- **[AI Fluency Framework & Foundations](https://verify.skilljar.com/c/bpobqx3p3szs)** | Certificate of Completion (apr 2026)
+- **[Software Engineering Job Simulation](https://www.theforage.com/completion-certificates/fgHAi6dLhpRsGKyyN/da2T3WZCbMAJD7bNB_fgHAi6dLhpRsGKyyN_NyDJnETQhYHsBuW5t_1767997476098_completion_certificate.pdf)** | Forage & Hewlett Packard Enterprise (gen 2026)
 - **[Software Engineering Virtual Experience](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Goldman%20Sachs/NPdeQ43o8P9HJmJzg_Goldman%20Sachs_NyDJnETQhYHsBuW5t_1676755690318_completion_certificate.pdf)** | Forage & Goldman Sachs (Feb 2023)
 - **[Python: Istruzioni per l'uso](https://www.coursera.org/account/accomplishments/certificate/2VLFJRXASC7J)** | University of Naples Federico II (2020)
 - **First Certificate in English** | Cambridge Assessment English (2018)
