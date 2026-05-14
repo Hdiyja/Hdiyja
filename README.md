@@ -30,10 +30,16 @@
 - 🌌 **[AstroMusic](https://github.com/CsaProtocol/AstroMusic)**: Award-winning scientific application for the "A Scuola di Astroparticelle" project
 
 
-#### 🎓 Education & Certifications
+#### 🎓 Education
 
 - **B.S. Computer Science** | [University of Naples Federico II](https://informatica.dieti.unina.it/index.php/it/)
-- **Software Engineering Virtual Experience** | Forage & Goldman Sachs (Feb 2023)
+
+
+#### 📜 Certifications & Courses
+
+- **[Software Engineering Job Simulation](https://www.theforage.com/completion-certificates/fgHAi6dLhpRsGKyyN/da2T3WZCbMAJD7bNB_fgHAi6dLhpRsGKyyN_NyDJnETQhYHsBuW5t_1767997476098_completion_certificate.pdf)** | Hewlett Packard Enterprise (Forage)
+- **[AI Fluency Framework & Foundations](https://verify.skilljar.com/c/bpobqx3p3szs)** | Certificate of Completion
+- **[Software Engineering Virtual Experience](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Goldman%20Sachs/NPdeQ43o8P9HJmJzg_Goldman%20Sachs_NyDJnETQhYHsBuW5t_1676755690318_completion_certificate.pdf)** | Forage & Goldman Sachs (Feb 2023)
 - **[Python: Istruzioni per l'uso](https://www.coursera.org/account/accomplishments/certificate/2VLFJRXASC7J)** | University of Naples Federico II (2020)
 - **First Certificate in English** | Cambridge Assessment English (2018)
 - **Introduction to Internet of Everything** | Cisco Networking Academy (2018)
